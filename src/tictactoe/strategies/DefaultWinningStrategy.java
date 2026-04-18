@@ -58,7 +58,6 @@ public class DefaultWinningStrategy implements WinningStrategy {
             }
             if(antiDiagWin) return true;
         }
-
         return false;
     }
 }

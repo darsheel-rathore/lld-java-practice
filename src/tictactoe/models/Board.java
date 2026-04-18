@@ -62,8 +62,8 @@ public class Board {
         for(int i = 0; i < size; i++) {
             for(int j = 0; j < size; j++) {
                 Symbol s = grid[i][j].getSymbol();
-                System.out.println(s == Symbol.NONE ? " . " : " " + s + " ");
-                if(j < size - 1) System.out.println("|");
+                System.out.print(s == Symbol.NONE ? " . " : " " + s + " ");
+                if(j < size - 1) System.out.print("|");
             }
             System.out.println();
             if(i < size - 1) System.out.println("---+---+---");
