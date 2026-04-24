@@ -1,4 +1,4 @@
-package src.tictactoe.models;
+package src.easy.tictactoe.models;
 
 public class Move {
 

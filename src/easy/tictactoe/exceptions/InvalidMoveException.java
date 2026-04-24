@@ -1,4 +1,4 @@
-package src.tictactoe.exceptions;
+package src.easy.tictactoe.exceptions;
 
 public class InvalidMoveException extends RuntimeException {
 

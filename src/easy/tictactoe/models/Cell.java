@@ -1,6 +1,6 @@
-package src.tictactoe.models;
+package src.easy.tictactoe.models;
 
-import src.tictactoe.enums.Symbol;
+import src.easy.tictactoe.enums.Symbol;
 
 public class Cell {
 

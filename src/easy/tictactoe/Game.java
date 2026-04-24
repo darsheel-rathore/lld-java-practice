@@ -1,13 +1,13 @@
-package src.tictactoe;
+package src.easy.tictactoe;
 
-import src.tictactoe.enums.GameStatus;
-import src.tictactoe.exceptions.InvalidBuildException;
-import src.tictactoe.exceptions.InvalidMoveException;
-import src.tictactoe.models.Board;
-import src.tictactoe.models.Cell;
-import src.tictactoe.models.Move;
-import src.tictactoe.models.Player;
-import src.tictactoe.strategies.WinningStrategy;
+import src.easy.tictactoe.enums.GameStatus;
+import src.easy.tictactoe.exceptions.InvalidBuildException;
+import src.easy.tictactoe.exceptions.InvalidMoveException;
+import src.easy.tictactoe.models.Board;
+import src.easy.tictactoe.models.Cell;
+import src.easy.tictactoe.models.Move;
+import src.easy.tictactoe.models.Player;
+import src.easy.tictactoe.strategies.WinningStrategy;
 
 import java.util.ArrayList;
 import java.util.List;

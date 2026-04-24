@@ -1,7 +1,7 @@
-package src.tictactoe.models;
+package src.easy.tictactoe.models;
 
-import src.tictactoe.enums.Symbol;
-import src.tictactoe.exceptions.InvalidMoveException;
+import src.easy.tictactoe.enums.Symbol;
+import src.easy.tictactoe.exceptions.InvalidMoveException;
 
 public class Board {
 

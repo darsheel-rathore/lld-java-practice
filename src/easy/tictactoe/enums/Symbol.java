@@ -1,4 +1,4 @@
-package src.tictactoe.enums;
+package src.easy.tictactoe.enums;
 
 public enum Symbol {
 

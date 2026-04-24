@@ -1,9 +1,9 @@
-package src.tictactoe;
+package src.easy.tictactoe;
 
-import src.tictactoe.enums.GameStatus;
-import src.tictactoe.enums.Symbol;
-import src.tictactoe.models.Player;
-import src.tictactoe.strategies.DefaultWinningStrategy;
+import src.easy.tictactoe.enums.GameStatus;
+import src.easy.tictactoe.enums.Symbol;
+import src.easy.tictactoe.models.Player;
+import src.easy.tictactoe.strategies.DefaultWinningStrategy;
 
 import java.util.Random;
 

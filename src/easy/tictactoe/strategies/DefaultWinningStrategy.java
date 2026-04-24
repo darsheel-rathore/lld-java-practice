@@ -1,9 +1,9 @@
-package src.tictactoe.strategies;
+package src.easy.tictactoe.strategies;
 
-import src.tictactoe.enums.Symbol;
-import src.tictactoe.models.Board;
-import src.tictactoe.models.Cell;
-import src.tictactoe.models.Move;
+import src.easy.tictactoe.enums.Symbol;
+import src.easy.tictactoe.models.Board;
+import src.easy.tictactoe.models.Cell;
+import src.easy.tictactoe.models.Move;
 
 public class DefaultWinningStrategy implements WinningStrategy {
     @Override
