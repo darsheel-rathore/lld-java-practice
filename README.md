@@ -7,7 +7,7 @@ SOLID design, and real interview-grade extensibility.
 ## Structure
 Each project lives in its own package under `src/` with consistent structure:
 - `models/` — core entities
-- `strategies/` — swappable logic (Strategy pattern)
+- `strategies/` — swappable logic
 - `exceptions/` — custom exceptions
 - `Game.java` / `Machine.java` — orchestrator
 - `Main.java` — driver with 3 interview scenarios
