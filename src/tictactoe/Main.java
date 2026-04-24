@@ -9,10 +9,13 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
+
+        // All scenarios are added
+        // Uncomment them if you want to check.
         scenario1_PlayerOneWins();
-        scenario4_PlayerVsBot();
-        scenario2_DrawGame();
-        scenario3_UndoMove();
+//        scenario4_PlayerVsBot();
+//        scenario2_DrawGame();
+//        scenario3_UndoMove();
     }
 
     static void scenario1_PlayerOneWins() {
