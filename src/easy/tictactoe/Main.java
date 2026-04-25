@@ -1,5 +1,6 @@
 package src.easy.tictactoe;
 
+import src.easy.tictactoe.controllers.Game;
 import src.easy.tictactoe.enums.GameStatus;
 import src.easy.tictactoe.enums.Symbol;
 import src.easy.tictactoe.models.Player;

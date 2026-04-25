@@ -1,4 +1,4 @@
-package src.easy.tictactoe;
+package src.easy.tictactoe.controllers;
 
 import src.easy.tictactoe.enums.GameStatus;
 import src.easy.tictactoe.exceptions.InvalidBuildException;
