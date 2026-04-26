@@ -20,7 +20,7 @@ Each project lives in its own package under `src/` with consistent structure:
 | 2 | Snake and Ladder | | ⏳ Pending |
 | 3 | Vending Machine | | ⏳ Pending |
 | 4 | ATM | | ⏳ Pending |
-| 5 | Parking Lot | | ⏳ Pending |
+| 5 | Parking Lot | Adapter, Strategy, Singleton | ✅ Done |
 | 6 | Elevator System | | ⏳ Pending |
 | 7 | Traffic Light System | | ⏳ Pending |
 | 8 | Library Management | | ⏳ Pending |
